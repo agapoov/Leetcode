@@ -3,3 +3,4 @@ cache/
 *.py/
 .venv
 venv/
+.idea

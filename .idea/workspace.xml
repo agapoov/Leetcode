@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84a83ddc-b31c-48c1-a2c7-80dad46ec438" name="Changes" comment="" />
+    <list default="true" id="84a83ddc-b31c-48c1-a2c7-80dad46ec438" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/easy/434. Number of Segments in a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solutions/easy/643. Maximum Average Subarray I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solutions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Solutions/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +19,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2sOebJxz7rrlbSWnpExn3kkS25b" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,6 +30,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.434. Number of Segments in a String.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -46,6 +56,8 @@
       <option name="presentableId" value="Default" />
       <updated>1738331119219</updated>
       <workItem from="1738331129975" duration="252000" />
+      <workItem from="1738331397190" duration="29000" />
+      <workItem from="1738334561060" duration="65000" />
     </task>
     <servers />
   </component>
